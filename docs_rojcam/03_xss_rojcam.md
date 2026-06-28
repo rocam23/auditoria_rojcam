@@ -42,6 +42,8 @@ Usando la calculadora versión 3.1 de CVSS (Sistema de Puntuación de Vulnerabil
   - La vulnerabilidad no afecta la disponibilidad del sistema, a diferencia de ataques tipo DDoS.
   - El sistema continúa funcionando de manera normal.
 
+Puntuación final: 5.4
+
 # Prevención
 
 Se recomienda adoptar prácticas de desarrollo seguro que incluyan la validación y sanitización de todas las entradas de usuario, la codificación adecuada de la salida según el contexto de visualización y la implementación de controles de seguridad.
