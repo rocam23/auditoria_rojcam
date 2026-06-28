@@ -122,9 +122,6 @@ export default function InyeccionSQL() {
               </tbody>
             </table>
           </div>
-          <p className="text-xs font-mono text-cyan-400/70 mt-3 text-right">
-            * Nota: El documento fuente hace mención por error a "Vulnerabilidad XSS" en la calificación, pero evalúa el vector SQLi con puntuación final de 9.1.
-          </p>
         </div>
 
         {/* Prevención y Mitigación en 2 columnas */}
