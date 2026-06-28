@@ -31,7 +31,7 @@ Usando la calculadora versión 3.1 de CVSS (Sistema de Puntuación de Vulnerabil
 - Integridad (I): Alta (H)
   - Potencialmente permite modificar o eliminar datos.  
 
-- Disponibilidad (A): Alta (N)
+- Disponibilidad (A): Alta (H)
   - Puede enviar comandos que interrumpan el sistema o borren archivos.
 
 Puntuación final: 9.8
