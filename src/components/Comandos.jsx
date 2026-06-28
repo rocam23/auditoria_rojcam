@@ -118,9 +118,6 @@ export default function Comandos() {
               </tbody>
             </table>
           </div>
-          <p className="text-xs font-mono text-cyan-400/70 mt-3 text-right">
-            * Nota: El documento fuente indica un error tipográfico citando "XSS" en el texto, pero evalúa la inyección de comandos con severidad crítica de 9.8.
-          </p>
         </div>
 
         {/* Prevención y Mitigación */}
